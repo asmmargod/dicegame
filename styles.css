@@ -1,0 +1,54 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #C7BCA1;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Rubik Microbe", cursive;
+  text-shadow: 3px 0 #FFE15D;
+  font-size: 8rem;
+  color: #2A3990;
+}
+
+p {
+  font-size: 2rem;
+  color: #7D8F69;
+  font-family: 'Josefin sans', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #65647C;
+  text-align: center;
+  font-family: 'Rubik Glitch', cursive;
+
+}
+
+.play {
+  background-color: brown;
+  border: 1px;
+  text-align: center;
+  margin: 5%;
+  padding: 1%;
+}
+
+.play:hover {
+  background-color: #ff4500;
+  cursor: pointer;
+}
